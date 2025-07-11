@@ -624,7 +624,7 @@ h1,h2,h3,h4,h5,h6,p{
     fill: #ffffffff;
     margin-right: 25px;
 }
-@keyframes(max-width:500px){
+@media(max-width:500px){
     .contact-area iframe{
         width:430px;
     }
