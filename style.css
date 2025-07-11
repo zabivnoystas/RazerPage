@@ -3,7 +3,7 @@ body{
     font-family: "Inria Sans", sans-serif;
 }
 .container{
-    width: 1685px;
+    width: 100%;
     margin: auto;
 }
 h1,h2,h3,h4,h5,h6,p{
@@ -79,6 +79,9 @@ h1,h2,h3,h4,h5,h6,p{
     height: 680px;
     padding-top: 10px;
     margin-top: 137px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .only-button{
     background-color: #FF7700;
@@ -130,6 +133,9 @@ h1,h2,h3,h4,h5,h6,p{
     background-image: url(img/bonanza/image\ 2.png);
     height: 680px;
     padding-top: 10px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .bon-p{
     color: #ffffffff;
@@ -164,6 +170,9 @@ h1,h2,h3,h4,h5,h6,p{
     height: 680px;
     padding-top: 10px;
     margin-top: 25px;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .only-button{
     background-color: #FF7700;
@@ -230,6 +239,9 @@ h1,h2,h3,h4,h5,h6,p{
     margin-top: 30px;
     overflow: hidden;
     position: relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .clio-area:hover .clio-resp{
     bottom: 10%;
@@ -317,6 +329,9 @@ h1,h2,h3,h4,h5,h6,p{
     margin-top: 30px;
     overflow: hidden;
     position: relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .blade16-area:hover .blade16-resp{
     bottom: 10%;
@@ -404,6 +419,9 @@ h1,h2,h3,h4,h5,h6,p{
     background-repeat: no-repeat;
     overflow: hidden;
     position: relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .device-area:hover .device-resp{
     bottom: 10%;
@@ -480,6 +498,9 @@ h1,h2,h3,h4,h5,h6,p{
     background-repeat: no-repeat;
     overflow: hidden;
     position: relative;
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
 }
 .esports-area:hover .esports-resp{
     bottom: 10%;
@@ -558,7 +579,7 @@ h1,h2,h3,h4,h5,h6,p{
     display: flex;
 }
 .contact-office{
-    width: 50%;
+    width: 100%;
     display:flex;
     flex-direction: column;
     align-items: center;
@@ -569,7 +590,7 @@ h1,h2,h3,h4,h5,h6,p{
     text-align: center;
 }
 .contact-info{
-    width: 50%;
+    width: 100%;
 }
 .contact-logo{
     width: 100%;
